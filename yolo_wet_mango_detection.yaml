@@ -5,7 +5,7 @@ names:
   2: indian
   3: wet_carabao
   4: wet_indian
-path: D:/Git/ThereGoesMangoesDataset/with_wetness
+path: /content/WetThereGoesMangoesDataset
 test: images/test
 train: images/train
 val: images/val
