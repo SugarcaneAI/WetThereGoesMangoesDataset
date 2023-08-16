@@ -1,0 +1,11 @@
+name: wet_mango_detection
+names:
+  0: carabao
+  1: flower
+  2: indian
+  3: wet_carabao
+  4: wet_indian
+path: E:/Git/WetThereGoesMangoesDataset
+test: images/test
+train: images/train
+val: images/val
